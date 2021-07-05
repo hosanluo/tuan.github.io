@@ -26,6 +26,7 @@ html body {
   background-image: url("../img/tuan.png");
   background-repeat: no-repeat;
   background-position: top;
+  background-size: cover;
 }
 .whiteBG {
   background: rgba(255, 255, 255, 0.3);
